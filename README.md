@@ -98,7 +98,7 @@ docker-compose up --build
 ---
 
 ## **💬 Have Questions?**  
-Reach out on **[LinkedIn](https://linkedin.com/in/SriRamapriyan)** or **[GitHub Issues](https://github.com/Sri-Ramapriyan/crm-app/issues)**.  
+Reach out on **[LinkedIn](https://www.linkedin.com/in/sri-ramapriyan/)** or **[GitHub Issues](https://github.com/Sri-Ramapriyan/crm-app/issues)**.  
 
 ---
 
